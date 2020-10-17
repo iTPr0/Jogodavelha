@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/iTPr0/ChatTI/blob/master/logo/ChatTI.png?raw=true"
+    <img src="https://github.com/iTPr0/Jogodavelha/blob/main/jogodavelha.png?raw=true"
         height="400">
 </p>
 
